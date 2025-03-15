@@ -39,18 +39,4 @@ public class Admin {
 		}
 	}
 
-	
-
-	private void select() {
-
-	}
-
-	private void delete() {
-
-	}
-
-	private void update() {
-
-	}
-
 }
